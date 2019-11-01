@@ -1,0 +1,4 @@
+bbbbbbbbbbbbbbbbbbbb,3,3,bigadiç,balıkesir,6/16/2015 12:00:00 AM,GardenHouse,True,1250,1000
+dniatgngsemn7irop8fs,5,12,merkez,balıkesir,5/12/2014 12:00:00 AM,Dublex,True,1500,800
+mjic271nsnedl52tbt6r,3,112,nilüfer,bursa,5/12/2014 12:00:00 AM,Apartment,True,2000,1500
+bozfn42ya8o5ujidga5c,2,112,beşiktaş,istanbul,5/12/2014 12:00:00 AM,Apartment,False,2500,3000

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emlak.WinFormApp", "Emlak.WinFormApp\Emlak.WinFormApp.csproj", "{1D6C3506-AF9A-4307-BB82-45A32B7A405D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emlak.DataAccess", "Emlak.DataAccess\Emlak.DataAccess.csproj", "{83878FEA-3810-4F37-B939-1B620967B336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emlak.Models", "Emlak.Models\Emlak.Models.csproj", "{923AA777-5EEE-4C90-BBFD-5EDC33816E5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AEC642D3-CE32-4C1E-B1CF-5202B46CA10C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D6C3506-AF9A-4307-BB82-45A32B7A405D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6C3506-AF9A-4307-BB82-45A32B7A405D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6C3506-AF9A-4307-BB82-45A32B7A405D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6C3506-AF9A-4307-BB82-45A32B7A405D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83878FEA-3810-4F37-B939-1B620967B336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83878FEA-3810-4F37-B939-1B620967B336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83878FEA-3810-4F37-B939-1B620967B336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83878FEA-3810-4F37-B939-1B620967B336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923AA777-5EEE-4C90-BBFD-5EDC33816E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923AA777-5EEE-4C90-BBFD-5EDC33816E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923AA777-5EEE-4C90-BBFD-5EDC33816E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923AA777-5EEE-4C90-BBFD-5EDC33816E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02D0CF23-86C4-4F77-AAC5-2BF968851B6B}
+	EndGlobalSection
+EndGlobal

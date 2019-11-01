@@ -1,0 +1,3 @@
+berke,1234
+kurnaz,1111
+test,deneme

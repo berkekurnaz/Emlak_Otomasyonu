@@ -1,0 +1,9 @@
+D:\ProjelerOkul\Odev2\Emlak.DataAccess\bin\Debug\Emlak.DataAccess.dll
+D:\ProjelerOkul\Odev2\Emlak.DataAccess\bin\Debug\Emlak.DataAccess.pdb
+D:\ProjelerOkul\Odev2\Emlak.DataAccess\bin\Debug\Emlak.Models.dll
+D:\ProjelerOkul\Odev2\Emlak.DataAccess\bin\Debug\Emlak.Models.pdb
+D:\ProjelerOkul\Odev2\Emlak.DataAccess\obj\Debug\Emlak.DataAccess.csprojAssemblyReference.cache
+D:\ProjelerOkul\Odev2\Emlak.DataAccess\obj\Debug\Emlak.DataAccess.csproj.CoreCompileInputs.cache
+D:\ProjelerOkul\Odev2\Emlak.DataAccess\obj\Debug\Emlak.DataAccess.csproj.CopyComplete
+D:\ProjelerOkul\Odev2\Emlak.DataAccess\obj\Debug\Emlak.DataAccess.dll
+D:\ProjelerOkul\Odev2\Emlak.DataAccess\obj\Debug\Emlak.DataAccess.pdb
